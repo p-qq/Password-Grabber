@@ -19,9 +19,6 @@ This is a password stealer, you can get your victim's password and user name and
     join the discord or add me eozri#0070 if you have something you want me to make if i am not already busy with something i'll do it
     or put it on my to do list, you can also get in contact w me via https://skadaddle.cc/
 
-# Creds 
-    https://github.com/cckuailong go check out his projects cckuailong has some really good projects
-    https://github.com/SaturnsVoid same with him, his go projects are great it wouldn't have been possible if it wasn't for him
 
 # What You Need
 ```
@@ -43,3 +40,6 @@ go get github.com/shirou/gopsutil/mem
 # What It Looks Like
 ![](pwsteal2.png)  
 ![](pwsteal.png)
+# Creds 
+    https://github.com/cckuailong go check out his projects cckuailong has some really good projects
+    https://github.com/SaturnsVoid same with him, his go projects are great it wouldn't have been possible if it wasn't for him
