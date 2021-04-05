@@ -18,8 +18,8 @@ import (
 	"net/http"
 	"github.com/shirou/gopsutil/disk"
 	"github.com/mattia-git/go-discord-webhooks"
-    "github.com/shirou/gopsutil/host"
-    "github.com/shirou/gopsutil/mem"
+    	"github.com/shirou/gopsutil/host"
+    	"github.com/shirou/gopsutil/mem"
 	"crypto/aes"
 	"crypto/cipher"
 )
