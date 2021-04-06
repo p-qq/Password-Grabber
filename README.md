@@ -1,4 +1,4 @@
-# pw-stealer
+# Password-Grabber
 just a password stealer in go this is all for educational purposes i'll probably make a python version of this if i get it to work again
 
 # how to use
