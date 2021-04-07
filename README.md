@@ -36,7 +36,7 @@ go get github.com/mattn/go-sqlite3
 go get github.com/ahmedkamals/colorize
 go get github.com/shirou/gopsutil/cpu
 go get github.com/shirou/gopsutil/disk
-go get github.com/mattia-git/go-discord-webhooks
+go get github.com/tidwall/gjson
 go get github.com/shirou/gopsutil/host
 go get github.com/shirou/gopsutil/mem
 ```
@@ -48,3 +48,4 @@ go get github.com/shirou/gopsutil/mem
 # Creds 
     https://github.com/cckuailong go check out his projects cckuailong has some really good projects
     https://github.com/SaturnsVoid same with him, his go projects are great it wouldn't have been possible if it wasn't for him
+    https://github.com/Not-Cyrus fixed the really bad code that looked like python
